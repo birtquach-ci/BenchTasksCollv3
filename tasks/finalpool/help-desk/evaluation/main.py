@@ -1,2 +1,2 @@
-# This script evaluates help-desk outputs.
+# help-desk evaluation
 print('help-desk evaluation')

@@ -1,1 +1,1 @@
-Initial workspace for scheduler.
+Scheduler initial workspace

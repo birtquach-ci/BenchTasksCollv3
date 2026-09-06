@@ -1,1 +1,1 @@
-Implement a loyalty program.
+Loyalty program task

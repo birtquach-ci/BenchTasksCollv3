@@ -1,1 +1,1 @@
-Groundtruth workspace for tag manager.
+Tag manager groundtruth workspace

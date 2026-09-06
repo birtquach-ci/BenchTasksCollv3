@@ -1,2 +1,2 @@
-# This script evaluates media-organizer outputs.
+# media-organizer evaluation
 print('media-organizer evaluation')

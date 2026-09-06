@@ -1,1 +1,1 @@
-The user will provide tag management rules.
+Tag manager user prompt

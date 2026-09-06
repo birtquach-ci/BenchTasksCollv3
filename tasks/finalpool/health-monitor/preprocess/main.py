@@ -1,2 +1,2 @@
-# This script preprocesses health-monitor inputs.
+# health-monitor preprocess
 print('health-monitor preprocess')

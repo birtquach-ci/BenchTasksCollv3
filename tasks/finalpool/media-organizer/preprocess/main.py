@@ -1,2 +1,2 @@
-# This script preprocesses media-organizer inputs.
+# media-organizer preprocess
 print('media-organizer preprocess')

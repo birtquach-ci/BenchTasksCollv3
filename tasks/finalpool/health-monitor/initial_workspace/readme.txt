@@ -1,1 +1,1 @@
-Initial workspace for health monitor.
+Health monitor initial workspace

@@ -1,1 +1,1 @@
-You are a helpful status checker agent.
+Status checker agent prompt

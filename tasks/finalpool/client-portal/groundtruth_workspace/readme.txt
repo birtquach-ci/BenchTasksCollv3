@@ -1,1 +1,1 @@
-Groundtruth workspace for client portal.
+Client portal groundtruth workspace

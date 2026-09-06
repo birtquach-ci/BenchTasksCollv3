@@ -1,1 +1,1 @@
-Initial workspace for survey builder.
+Survey builder initial workspace

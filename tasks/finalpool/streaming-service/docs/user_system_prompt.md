@@ -1,1 +1,1 @@
-The user will provide streaming service requirements.
+Streaming service user prompt

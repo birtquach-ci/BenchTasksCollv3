@@ -1,1 +1,1 @@
-Manage storage resources.
+Storage manager task

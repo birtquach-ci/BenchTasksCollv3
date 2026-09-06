@@ -1,1 +1,1 @@
-The user will provide status check rules.
+Status checker user prompt

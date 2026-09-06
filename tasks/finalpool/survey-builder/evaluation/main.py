@@ -1,2 +1,2 @@
-# This script evaluates survey-builder outputs.
+# survey-builder evaluation
 print('survey-builder evaluation')

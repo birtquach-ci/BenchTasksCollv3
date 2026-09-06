@@ -1,1 +1,1 @@
-You are a helpful web crawler agent.
+Web crawler agent prompt

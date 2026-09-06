@@ -1,1 +1,1 @@
-You are a helpful health monitor agent.
+Health monitor agent prompt

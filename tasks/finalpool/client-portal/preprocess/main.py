@@ -1,2 +1,2 @@
-# This script preprocesses client-portal inputs.
+# client-portal preprocess
 print('client-portal preprocess')

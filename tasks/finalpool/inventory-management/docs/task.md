@@ -1,1 +1,1 @@
-Manage inventory records.
+Inventory management task

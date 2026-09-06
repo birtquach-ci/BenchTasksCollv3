@@ -1,1 +1,1 @@
-You are a helpful media organizer agent.
+Media organizer agent prompt

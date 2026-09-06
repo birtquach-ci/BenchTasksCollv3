@@ -1,2 +1,2 @@
-# This script evaluates storage-manager outputs.
+# storage-manager evaluation
 print('storage-manager evaluation')

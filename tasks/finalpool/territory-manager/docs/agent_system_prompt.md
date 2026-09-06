@@ -1,1 +1,1 @@
-You are a helpful territory manager agent.
+Territory manager agent prompt

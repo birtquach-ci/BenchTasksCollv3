@@ -1,1 +1,1 @@
-You are a helpful certificate manager agent.
+Certificate manager agent prompt

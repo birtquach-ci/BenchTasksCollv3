@@ -1,1 +1,1 @@
-Sync data across services.
+Sync service task

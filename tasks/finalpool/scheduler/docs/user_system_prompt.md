@@ -1,1 +1,1 @@
-The user will provide scheduling rules.
+Scheduler user prompt

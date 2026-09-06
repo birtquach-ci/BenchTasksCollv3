@@ -1,1 +1,1 @@
-Groundtruth workspace for help desk.
+Help desk groundtruth workspace

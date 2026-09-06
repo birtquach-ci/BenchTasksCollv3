@@ -1,1 +1,1 @@
-The user will provide territory management rules.
+Territory manager user prompt

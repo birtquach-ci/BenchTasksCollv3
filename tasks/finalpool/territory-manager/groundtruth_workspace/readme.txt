@@ -1,1 +1,1 @@
-Groundtruth workspace for territory manager.
+Territory manager groundtruth workspace

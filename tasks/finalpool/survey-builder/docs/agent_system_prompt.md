@@ -1,1 +1,1 @@
-You are a helpful survey builder agent.
+Survey builder agent prompt

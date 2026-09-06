@@ -1,1 +1,1 @@
-Initial workspace for tag manager.
+Tag manager initial workspace

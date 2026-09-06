@@ -1,2 +1,2 @@
-# This script evaluates loyalty-program outputs.
+# loyalty-program evaluation
 print('loyalty-program evaluation')

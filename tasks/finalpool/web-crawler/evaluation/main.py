@@ -1,2 +1,2 @@
-# This script evaluates web-crawler outputs.
+# web-crawler evaluation
 print('web-crawler evaluation')

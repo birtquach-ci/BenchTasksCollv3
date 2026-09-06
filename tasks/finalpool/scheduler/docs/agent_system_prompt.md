@@ -1,1 +1,1 @@
-You are a helpful scheduler agent.
+Scheduler agent prompt

@@ -1,2 +1,2 @@
-# This script preprocesses discount-calculator inputs.
+# discount-calculator preprocess
 print('discount-calculator preprocess')

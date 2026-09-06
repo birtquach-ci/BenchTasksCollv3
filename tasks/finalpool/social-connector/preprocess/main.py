@@ -1,2 +1,2 @@
-# This script preprocesses social-connector inputs.
+# social-connector preprocess
 print('social-connector preprocess')

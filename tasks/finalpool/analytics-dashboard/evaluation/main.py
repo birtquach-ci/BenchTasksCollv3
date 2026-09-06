@@ -1,2 +1,2 @@
-# This script evaluates analytics-dashboard outputs.
+# analytics-dashboard evaluation
 print('analytics-dashboard evaluation')

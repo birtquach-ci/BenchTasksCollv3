@@ -1,1 +1,1 @@
-The user will provide help desk requirements.
+Help desk user prompt

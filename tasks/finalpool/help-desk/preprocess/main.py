@@ -1,2 +1,2 @@
-# This script preprocesses help-desk inputs.
+# help-desk preprocess
 print('help-desk preprocess')

@@ -1,1 +1,1 @@
-Organize media assets.
+Media organizer task

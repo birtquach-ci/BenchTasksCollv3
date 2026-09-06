@@ -1,1 +1,1 @@
-Groundtruth workspace for media organizer.
+Media organizer groundtruth workspace

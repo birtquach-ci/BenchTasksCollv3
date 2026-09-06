@@ -1,1 +1,1 @@
-Groundtruth workspace for streaming service.
+Streaming service groundtruth workspace

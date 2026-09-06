@@ -1,1 +1,1 @@
-Crawl web pages.
+Web crawler task

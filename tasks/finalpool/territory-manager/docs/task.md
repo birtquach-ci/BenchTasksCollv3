@@ -1,1 +1,1 @@
-Manage territories.
+Territory manager task

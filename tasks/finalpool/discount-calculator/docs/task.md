@@ -1,1 +1,1 @@
-Calculate discounts accurately.
+Discount calculator task

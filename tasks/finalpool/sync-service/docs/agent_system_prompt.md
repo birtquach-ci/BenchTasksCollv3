@@ -1,1 +1,1 @@
-You are a helpful sync service agent.
+Sync service agent prompt

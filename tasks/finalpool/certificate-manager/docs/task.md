@@ -1,1 +1,1 @@
-Manage certificates for services.
+Certificate manager task

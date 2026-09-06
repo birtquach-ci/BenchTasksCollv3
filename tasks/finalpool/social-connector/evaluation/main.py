@@ -1,2 +1,2 @@
-# This script evaluates social-connector outputs.
+# social-connector evaluation
 print('social-connector evaluation')

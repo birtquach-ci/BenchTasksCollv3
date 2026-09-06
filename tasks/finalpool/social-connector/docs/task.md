@@ -1,1 +1,1 @@
-Connect social accounts.
+Social connector task

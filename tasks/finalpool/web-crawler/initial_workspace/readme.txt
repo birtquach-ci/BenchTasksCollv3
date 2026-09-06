@@ -1,1 +1,1 @@
-Initial workspace for web crawler.
+Web crawler initial workspace.

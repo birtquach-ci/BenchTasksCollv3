@@ -1,1 +1,1 @@
-The user will provide media organization rules.
+Media organizer user prompt

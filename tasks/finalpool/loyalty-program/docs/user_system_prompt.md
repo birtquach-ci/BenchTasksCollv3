@@ -1,1 +1,1 @@
-The user will provide loyalty program rules.
+Loyalty program user prompt

@@ -1,1 +1,1 @@
-You are a helpful storage manager agent.
+Storage manager agent prompt

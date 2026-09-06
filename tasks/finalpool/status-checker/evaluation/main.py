@@ -1,2 +1,2 @@
-# This script evaluates status-checker outputs.
+# status-checker evaluation
 print('status-checker evaluation')

@@ -1,2 +1,2 @@
-# This script evaluates inventory-management outputs.
+# inventory-management evaluation
 print('inventory-management evaluation')

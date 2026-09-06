@@ -1,2 +1,2 @@
-# This script evaluates scheduler outputs.
+# scheduler evaluation
 print('scheduler evaluation')

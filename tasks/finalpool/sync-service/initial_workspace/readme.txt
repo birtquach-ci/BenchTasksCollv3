@@ -1,1 +1,1 @@
-Initial workspace for sync service.
+Sync service initial workspace

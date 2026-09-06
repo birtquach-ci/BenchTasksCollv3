@@ -1,1 +1,1 @@
-Groundtruth workspace for inventory management.
+Inventory management groundtruth workspace

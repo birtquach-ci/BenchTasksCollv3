@@ -1,1 +1,1 @@
-Groundtruth workspace for loyalty program.
+Loyalty program groundtruth workspace

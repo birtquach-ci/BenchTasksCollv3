@@ -1,1 +1,1 @@
-Manage tags.
+Tag manager task

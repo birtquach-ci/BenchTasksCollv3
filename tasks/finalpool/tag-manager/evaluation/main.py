@@ -1,2 +1,2 @@
-# This script evaluates tag-manager outputs.
+# tag-manager evaluation
 print('tag-manager evaluation')

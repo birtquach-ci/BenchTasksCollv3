@@ -1,2 +1,2 @@
-# This script evaluates customer-feedback-processor outputs.
+# customer-feedback-processor evaluation
 print('customer-feedback-processor evaluation')

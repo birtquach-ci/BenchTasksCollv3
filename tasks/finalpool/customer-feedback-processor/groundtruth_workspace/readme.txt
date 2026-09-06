@@ -1,1 +1,1 @@
-Groundtruth workspace for customer feedback processor.
+Customer feedback processor groundtruth workspace

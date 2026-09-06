@@ -1,1 +1,1 @@
-Check service statuses.
+Status checker task

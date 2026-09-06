@@ -1,1 +1,1 @@
-The user will provide dashboard requirements.
+Analytics dashboard user prompt

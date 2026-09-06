@@ -1,1 +1,1 @@
-The user will provide social connection rules.
+Social connector user prompt

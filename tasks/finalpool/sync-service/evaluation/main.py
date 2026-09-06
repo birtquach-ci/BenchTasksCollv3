@@ -1,2 +1,2 @@
-# This script evaluates sync-service outputs.
+# sync-service evaluation
 print('sync-service evaluation')

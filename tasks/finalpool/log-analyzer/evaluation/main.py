@@ -1,2 +1,2 @@
-# This script evaluates log-analyzer outputs.
+# log-analyzer evaluation
 print('log-analyzer evaluation')

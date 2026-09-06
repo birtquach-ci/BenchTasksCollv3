@@ -1,1 +1,1 @@
-Provide streaming service features.
+Streaming service task

@@ -1,1 +1,1 @@
-Groundtruth workspace for social connector.
+Social connector groundtruth workspace

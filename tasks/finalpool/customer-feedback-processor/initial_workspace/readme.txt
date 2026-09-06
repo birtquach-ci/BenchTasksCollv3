@@ -1,1 +1,1 @@
-Initial workspace for customer feedback processor.
+Customer feedback processor initial workspace

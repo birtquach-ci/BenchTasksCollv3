@@ -1,1 +1,1 @@
-Analyze application logs.
+Log analyzer task

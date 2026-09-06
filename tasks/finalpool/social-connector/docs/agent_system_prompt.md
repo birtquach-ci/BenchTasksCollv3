@@ -1,1 +1,1 @@
-You are a helpful social connector agent.
+Social connector agent prompt

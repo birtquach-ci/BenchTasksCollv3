@@ -1,2 +1,2 @@
-# This script evaluates streaming-service outputs.
+# streaming-service evaluation
 print('streaming-service evaluation')

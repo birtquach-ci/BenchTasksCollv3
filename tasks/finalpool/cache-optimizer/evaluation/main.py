@@ -1,2 +1,2 @@
-# This script evaluates cache-optimizer outputs.
+# cache-optimizer evaluation
 print('cache-optimizer evaluation')

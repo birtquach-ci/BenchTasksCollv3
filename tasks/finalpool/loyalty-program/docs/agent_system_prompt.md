@@ -1,1 +1,1 @@
-You are a helpful loyalty program agent.
+Loyalty program agent prompt

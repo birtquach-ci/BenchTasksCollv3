@@ -1,1 +1,1 @@
-The user will provide client portal requirements.
+Client portal user prompt

@@ -1,1 +1,1 @@
-Initial workspace for client portal.
+Client portal initial workspace

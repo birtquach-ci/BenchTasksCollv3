@@ -1,1 +1,1 @@
-You are a helpful inventory management agent.
+Inventory management agent prompt

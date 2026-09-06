@@ -1,1 +1,1 @@
-Groundtruth workspace for health monitor.
+Health monitor groundtruth workspace

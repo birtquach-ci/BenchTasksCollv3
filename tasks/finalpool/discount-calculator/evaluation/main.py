@@ -1,2 +1,2 @@
-# This script evaluates discount-calculator outputs.
+# discount-calculator evaluation
 print('discount-calculator evaluation')

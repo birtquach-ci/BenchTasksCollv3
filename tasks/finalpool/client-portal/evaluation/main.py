@@ -1,2 +1,2 @@
-# This script evaluates client-portal outputs.
+# client-portal evaluation
 print('client-portal evaluation')

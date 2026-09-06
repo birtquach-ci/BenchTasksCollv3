@@ -1,1 +1,1 @@
-Build an analytics dashboard.
+Analytics dashboard task

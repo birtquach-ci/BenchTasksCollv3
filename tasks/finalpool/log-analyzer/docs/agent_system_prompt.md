@@ -1,1 +1,1 @@
-You are a helpful log analyzer agent.
+Log analyzer agent prompt

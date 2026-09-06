@@ -1,1 +1,1 @@
-Process customer feedback.
+Customer feedback processor task

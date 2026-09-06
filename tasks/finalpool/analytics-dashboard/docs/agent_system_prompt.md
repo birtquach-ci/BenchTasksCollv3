@@ -1,1 +1,1 @@
-You are a helpful analytics dashboard agent.
+Analytics dashboard agent prompt

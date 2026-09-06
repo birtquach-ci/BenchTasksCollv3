@@ -1,2 +1,2 @@
-# This script evaluates territory-manager outputs.
+# territory-manager evaluation
 print('territory-manager evaluation')

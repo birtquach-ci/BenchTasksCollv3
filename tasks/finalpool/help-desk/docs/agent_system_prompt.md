@@ -1,1 +1,1 @@
-You are a helpful help desk agent.
+Help desk agent prompt

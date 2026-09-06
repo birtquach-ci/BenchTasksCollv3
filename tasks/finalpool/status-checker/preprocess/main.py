@@ -1,2 +1,2 @@
-# This script preprocesses status-checker inputs.
+# status-checker preprocess
 print('status-checker preprocess')

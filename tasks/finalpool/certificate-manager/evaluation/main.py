@@ -1,2 +1,2 @@
-# This script evaluates certificate-manager outputs.
+# certificate-manager evaluation
 print('certificate-manager evaluation')

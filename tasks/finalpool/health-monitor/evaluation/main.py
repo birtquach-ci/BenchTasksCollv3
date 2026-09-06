@@ -1,2 +1,2 @@
-# This script evaluates health-monitor outputs.
+# health-monitor evaluation
 print('health-monitor evaluation')

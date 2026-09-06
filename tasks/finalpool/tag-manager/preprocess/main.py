@@ -1,2 +1,2 @@
-# This script preprocesses tag-manager inputs.
+# tag-manager preprocess
 print('tag-manager preprocess')

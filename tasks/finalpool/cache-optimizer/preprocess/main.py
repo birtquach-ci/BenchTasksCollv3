@@ -1,2 +1,2 @@
-# This script preprocesses cache-optimizer inputs.
+# cache-optimizer preprocess
 print('cache-optimizer preprocess')

@@ -1,2 +1,2 @@
-# This script preprocesses log-analyzer inputs.
+# log-analyzer preprocess
 print('log-analyzer preprocess')

@@ -1,1 +1,1 @@
-You are a helpful tag manager agent.
+Tag manager agent prompt

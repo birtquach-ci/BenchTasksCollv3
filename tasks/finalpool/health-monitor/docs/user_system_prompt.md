@@ -1,1 +1,1 @@
-The user will provide health monitor requirements.
+Health monitor user prompt
